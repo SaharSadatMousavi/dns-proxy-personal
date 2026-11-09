@@ -1,0 +1,11 @@
+listen_port=5353
+proxy_ip=127.0.0.1
+upstream_ip=8.8.8.8
+upstream_port=53
+sanction_ip=10.202.10.202
+sanction_port=53
+sinkhole_ip=0.0.0.0
+ad_list_file=ad_list.txt
+sanction_list_file=sanction_list.txt
+cache_capacity=100
+cache_ttl_policy=record
