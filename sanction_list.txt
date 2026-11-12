@@ -1,0 +1,3 @@
+# sanction_list.txt
+service.example.org
+both.example.com

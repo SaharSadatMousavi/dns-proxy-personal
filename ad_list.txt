@@ -1,0 +1,4 @@
+# ad_list.txt
+ads.example.com
+tracker.example.net
+both.example.com
